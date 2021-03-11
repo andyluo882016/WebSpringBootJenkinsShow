@@ -11,7 +11,6 @@
 	<groupId>com.example</groupId>
 	<artifactId>WebKafkaShow</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
-	<packaging>war</packaging>
 	<name>WebKafkaShow</name>
 	<description>Demo project for Spring Boot</description>
 
